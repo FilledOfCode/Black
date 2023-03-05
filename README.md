@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Spark-MeArm
 ===========
 
-A spark core con
+A spark core controller for t
