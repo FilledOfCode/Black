@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Spark-MeArm
 ===========
 
-A spark core controller for the MeArm robotic arm. Complete with S-Curve moti
+A spark core controller for the MeArm robotic arm. Complete with S-Curve motion p
