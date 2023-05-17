@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 Spark-MeArm
 ===========
 
-A spark core controller for the MeArm robotic arm. Complete with S-Curve motion planning and inverse kinem
+A spark core controller for the MeArm robotic arm. Complete with S-Curve motion planning and inverse kinematics.
+
+Thi
