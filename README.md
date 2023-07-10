@@ -19,4 +19,4 @@ Spark-MeArm
 
 A spark core controller for the MeArm robotic arm. Complete with S-Curve motion planning and inverse kinematics.
 
-This sketch provides servo control for t
+This sketch provides servo control for the [
