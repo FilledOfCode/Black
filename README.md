@@ -19,4 +19,4 @@ Spark-MeArm
 
 A spark core controller for the MeArm robotic arm. Complete with S-Curve motion planning and inverse kinematics.
 
-This sketch provides servo control for the [MeArm robotic arm](https://github.com/phenoptix/MeArm) kit using a Spark Core. It implements S-Curv
+This sketch provides servo control for the [MeArm robotic arm](https://github.com/phenoptix/MeArm) kit using a Spark Core. It implements S-Curve motio
