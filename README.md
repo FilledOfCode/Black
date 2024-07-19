@@ -21,4 +21,4 @@ A spark core controller for the MeArm robotic arm. Complete with S-Curve motion 
 
 This sketch provides servo control for the [MeArm robotic arm](https://github.com/phenoptix/MeArm) kit using a Spark Core. It implements S-Curve motion planning borrowing heavily from the [TinyG firmware](https://github.com/synthetos/TinyG) implementation. It also uses the [Inverse Kinematics](https://github.com/phenoptix/MeArm/blob/master/MeArmIK/MeArmIK.ino) implementation provided by Phenoptix.
 
-To use add a new application in the Spark Build IDE, add an extra set of files and copy and paste the move.cpp and move.h files into the project. Next add the SparkIntervalTimer library using the Spark Build interface. Then copy and paste the main code from Spark-MeArm.ino into the main sketch. Flash your core and you 
+To use add a new application in the Spark Build IDE, add an extra set of files and copy and paste the move.cpp and move.h files into the project. Next add the SparkIntervalTimer library using the Spark Build interface. Then copy and paste the main code from Spark-MeArm.ino into the main sketch. Flash your core and you should b
