@@ -23,4 +23,4 @@ This sketch provides servo control for the [MeArm robotic arm](https://github.co
 
 To use add a new application in the Spark Build IDE, add an extra set of files and copy and paste the move.cpp and move.h files into the project. Next add the SparkIntervalTimer library using the Spark Build interface. Then copy and paste the main code from Spark-MeArm.ino into the main sketch. Flash your core and you should be working.
 
-You can use the tester.html file to control your Spark Core. 
+You can use the tester.html file to control your Spark Core. Its no
