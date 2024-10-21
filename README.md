@@ -25,4 +25,4 @@ To use add a new application in the Spark Build IDE, add an extra set of files a
 
 You can use the tester.html file to control your Spark Core. Its not a great UI, but it lets you try out the inverse kinematics by specifying target positions.
 
-You will need to get your Spark Core ID, 
+You will need to get your Spark Core ID, and you
